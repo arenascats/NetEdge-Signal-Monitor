@@ -1,0 +1,10 @@
+{
+  "refresh_ms": 5000,
+  "snap_distance": 28,
+  "auto_hide_delay_ms": 1600,
+  "edge_visible_width": 14,
+  "always_on_top": true,
+  "default_edge": "right",
+  "start_collapsed": true,
+  "strip_mode": "bar_small"
+}

@@ -1,0 +1,1 @@
+pyinstaller -F -w -i icon-logo.ico -n "网络状态监测工具 v1.0.1" main.py
